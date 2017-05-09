@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string-array name="film_names">
+        <item>"Film1"</item>
+        <item>"Film2"</item>
+        <item>"Film3"</item>
+        <item>"Film4"</item>
+    </string-array>
+
+    <string-array name="director_names">
+        <item>"Director1"</item>
+        <item>"Director2"</item>
+        <item>"Director3"</item>
+        <item>"Director4"</item>
+    </string-array>
+</resources>
